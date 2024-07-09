@@ -1,0 +1,17 @@
+
+nav{
+    background-color:blue;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+
+}
+a{
+    color:whitesmoke;
+    text-decoration: none;
+    display:inline-block;
+    text-align: center;
+    padding: 20px;
+
+}
